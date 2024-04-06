@@ -10,7 +10,7 @@ DROP Last_Name,
 DROP Date_of_Birth;
 
 ALTER TABLE student
-ADD FirstName TEXT NOT NULL,
+ADD FirstName int NOT NULL,
 ADD LastName TEXT NOT NULL,
 ADD DateOfBirth DATE NOT NULL,
 ADD Email TEXT NOT NULL,

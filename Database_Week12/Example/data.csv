@@ -1,0 +1,10 @@
+warehouse,product,qty
+San Fransisco,iPhone,260
+San Fransisco,Samsung,300
+San Jose,iPhone,300
+San Jose,Samsung,350
+San Fransisco,NULL,560
+San Jose,NULL,650
+NULL,iPhone,560
+NULL,Samsung,650
+NULL,NULL,1210

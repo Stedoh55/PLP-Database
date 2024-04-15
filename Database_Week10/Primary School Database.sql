@@ -1,4 +1,4 @@
--- Creating the Primary School Database
+ss-- Creating the Primary School Database
 CREATE TABLE `primary_school`.`students` (
   `StudentID` INT NOT NULL AUTO_INCREMENT,
   `StudentNames` VARCHAR(45) NOT NULL,
